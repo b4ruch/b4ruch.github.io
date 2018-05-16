@@ -1,0 +1,12 @@
+body {
+    background-color: #336acf60;
+}
+
+h1 {
+    color: white;
+    font-size: 36px;
+}
+
+.greeting {
+    text-align: center;
+}
